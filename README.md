@@ -1,6 +1,5 @@
-Um dos projetos propostos pela DIO (Digital Innovation One) no bootcamp MRV front-end SPA developer.
-
 # Getting Started with Create React App
+Um dos projetos propostos pela DIO (Digital Innovation One) no bootcamp MRV front-end SPA developer.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
